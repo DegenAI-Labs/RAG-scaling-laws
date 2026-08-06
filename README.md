@@ -1,4 +1,4 @@
-# To Memorize or to Retrieve: Scaling Laws for RAG-Considerate Pretraining
+# To Memorize or to Retrieve: Scaling the Interaction Between Pretraining and Retrieval
 
 [Karan Singh](https://karanps.com), [Michael Yu](https://michaelc-yu.github.io/), [Varun Gangal](https://vgtomahawk.github.io), Zhuofu Tao, [Sachin Kumar](https://sites.google.com/view/sachinkumar?pli=1), [Emmy Liu](https://nightingal3.github.io), [Steven Y. Feng](https://styfeng.github.io)
 
